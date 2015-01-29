@@ -15,7 +15,7 @@ setup(
     license='BSD License',  # example license
     description='A django app that repeats one http POST into several.',
     long_description=README,
-    url='http://www.oceanatech.com/',
+    url='https://github.com/clickyspinny/django-requestrepeat/tree/master/requestrepeat',
     author='Oceana Technologies',
     author_email='ben@oceanatech.com',
     classifiers=[
